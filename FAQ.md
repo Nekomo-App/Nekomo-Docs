@@ -23,3 +23,6 @@ Details come from metadata services, streaming comes from the sources you instal
 
 ## Which APK is the TV version?
 Every Android TV build has TV in its name, for example `Nekomo-TV-release.apk`. See the build table in the getting started guide.
+
+## What is NEX?
+NEX (Nekomo Extension Exchange) is a companion app that manages repositories and extensions for Nekomo, Mihon, Aniyomi, CloudStream and Zangetsu. See [NEX](https://github.com/Nekomo-App/NEX).
