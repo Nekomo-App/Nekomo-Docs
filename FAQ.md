@@ -26,3 +26,6 @@ Every Android TV build has TV in its name, for example `Nekomo-TV-release.apk`. 
 
 ## What is NEX?
 NEX (Nekomo Extension Exchange) is a companion app that manages repositories and extensions for Nekomo, Mihon, Aniyomi, CloudStream and Zangetsu. See [NEX](https://github.com/Nekomo-App/NEX).
+
+## Why can't I take screenshots?
+Nekomo and NEX block screenshots, screen recording and the recents thumbnail on purpose, to keep your library and account details private.
